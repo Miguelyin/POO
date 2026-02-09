@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: MainPackage.Main
+Created-By: 11.0.22 (Ubuntu)
+
